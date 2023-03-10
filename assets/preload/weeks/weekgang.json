@@ -1,0 +1,32 @@
+{
+	"storyName": "gangster mario",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "jumpman",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mario",
+		"gangbf",
+		"gf"
+	],
+	"songs": [
+		[
+			"JumpMan",
+			"gmario",
+			[
+				255,
+				0,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "GangMario",
+	"hiddenUntilUnlocked": false
+}

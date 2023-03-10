@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_mario.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 7 instance 10000" x="10" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10001" x="10" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10002" x="497" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10003" x="497" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10004" x="984" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10005" x="984" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10006" x="1471" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10007" x="1471" y="10" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10008" x="10" y="642" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10009" x="10" y="642" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10010" x="10" y="642" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10011" x="10" y="642" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10012" x="10" y="642" width="477" height="622"/>
+	<SubTexture name="Symbol 7 instance 10013" x="10" y="642" width="477" height="622"/>
+</TextureAtlas>

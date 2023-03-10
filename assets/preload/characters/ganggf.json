@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-1
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Gf danceLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-2
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Gf danceRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gangstaassgf",
+	"position": [
+		20,
+		30
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-120,
+		0
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
